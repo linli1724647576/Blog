@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="ESC" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="ESC">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/www/blog" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/www/blog/target/blog-0.0.1-SNAPSHOT.jar" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
